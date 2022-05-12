@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou estudando desenvolvimento back-end e front-end.
 - 🌱 Dandos meus passos nas linguaguens: Java, JavaScript, Python, HTML, Css, Node Js e React js.
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 <div align="center">
   <a href="https://github.com/GuiMunizPB">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiMunizPB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
